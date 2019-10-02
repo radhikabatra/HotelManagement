@@ -1,5 +1,3 @@
-
-
 This is a simple HotelManagement tool that utilizes data from/to the sql database.
 
 #[Features - FrontEnd]: 

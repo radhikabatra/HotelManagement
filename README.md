@@ -1,5 +1,4 @@
-Hotel Management System
-=======================
+
 
 This is a simple HotelManagement tool that utilizes data from/to the sql database.
 
@@ -15,7 +14,7 @@ This is a simple HotelManagement tool that utilizes data from/to the sql databas
 * On the line: queue in order
 * Overview: full data grid view of occupancy
 
-
+ 
 
 #[Login]
 * Kitchen - Username: kitchen , password: kitchen

@@ -28,7 +28,7 @@ This is a simple HotelManagement tool that utilizes data from/to the sql databas
 * https://www.twilio.com/
  
 
-#[Screenshots]
+#[Screenshots ]
 
 ![Alt text](https://raw.githubusercontent.com/nazimamin/HotelManagement/master/HotelManagement/assets/login.PNG "Login window")
 ![ScreenShot](https://raw.githubusercontent.com/nazimamin/HotelManagement/master/HotelManagement/assets/payment.PNG "Payment window")
